@@ -1,0 +1,1 @@
+let three = "Mi primer script"; console.log (three);
